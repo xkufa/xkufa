@@ -86,7 +86,7 @@
 
 <div align="center">
   <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Ratheshan03" />
+  <img src="https://komarev.com/ghpvc/?username=xkufa&label=Profile%20views&color=grey&style=plastic" alt="X-KUFA" />
 </div>
 
 
