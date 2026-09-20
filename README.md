@@ -19,21 +19,6 @@
   </tr>
 </table>
 
-<h3 align="center" style="margin-top: 15px;">
-  <b><i> ❝ Carpediem - Seize the day! ❞</i></b>
-</h3>
-
-
-<h3>About Me 🧑</h3>
-
-- 🧞 Tech Enthusiast since childhood
-- 🔭 Currently focused on AI/ML Development and Data Engineering
-- 👯 Looking to collaborate on AI/ML and Fullstack Dev projects
-- 💡 Always eager to contribute to Open Source
-- ⚡ Fun fact: I love sports, especially Cricket
-
----
-
 <details open>
 <summary>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Technology Stack</b>
@@ -97,78 +82,6 @@
 </table>
 
 </details>
-
-<details>
-<summary>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDVlOTAxNzZjZWM1YzM0MThmNjI0ZWY1NzBhYjcwM2MxZTFhMzNhMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="25"> <b>Future Learning Goals</b>
-</summary>
-<br>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Mobile Development</h4>
-      <p>
-        <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
-      </p>
-      <h4>Cloud & DevOps</h4>
-      <p>
-        <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-        <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
-      </p>
-    </td>
-    <td valign="top" width="50%">
-      <h4>Data Science & Machine Learning</h4>
-      <p>
-        <code><a href="https://opencv.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"></a></code>
-        <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
-      </p>
-    </td>
-  </tr>
-</table>
-</details>
-
----
-
-<details open>
-<summary>
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Analytics</b>
-</summary>
-<br>
-<div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
-  </a>
-  <a href="https://github.com/Ratheshan03">
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Ratheshan03&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/Ratheshan03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ratheshan03&theme=darkhub&no-frame=true"/>
-  </a>
-</div>
-</details>
-
----
-
-<!-- FOOTER WITH ANIMATED EMOJIS -->
-
-<div align="center">
-  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhhNTY0MmQwMDNmNDQ0MWYwNGYwODI3ZDNkODU1MGM5OWFkYTQxYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/jnhXd7KT8UTk5WIgiV/giphy.gif" width="30px"> Connect With Me </h3>
-</div>
-
-<div align="center">
-  <h3> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2lzemg5b2Vhd21xbXdjMGF2aXhkd2NieDQ3emQyYXIycHJncDlrayZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Profile Views</h3>
-  <img src="https://komarev.com/ghpvc/?username=xkufa&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="X-KUFA" />
-</div>
 
 <br>
 <div align="center">
