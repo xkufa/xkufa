@@ -64,7 +64,6 @@
         <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
         <code><a href="https://tailwindcss.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"></a></code>
         <code><a href="https://redux.js.org" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></a></code>
-        <code><a href="https://matplotlib.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"></a></code>
         <code><a href="https://www.langchain.com/" target="_blank"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/master/icons/langchain.svg"></a></code>
       </p>
     </td>
@@ -76,7 +75,6 @@
         <code><a href="https://www.mysql.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a></code>
         <code><a href="https://www.influxdata.com/time-series-platform/telegraf/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg"></a></code>
         <code><a href="https://www.docker.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
-        <code><a href="https://kubernetes.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
         <code><a href="https://about.gitlab.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></a></code>
         <code><a href="https://www.jenkins.io/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></a></code>
         <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
